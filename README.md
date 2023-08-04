@@ -44,7 +44,7 @@
 <details>
   <summary> 📊 &nbsp; <i>My Stats</i></summary>
     
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-PIxelzenl&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
@@ -55,7 +55,7 @@
 <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=padsalatushal&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 
 </details>
 
@@ -77,11 +77,7 @@
 
 <!-- Github trophy starts here-->
  
- <details>
- <summary> 🏆 &nbsp; <i>GitHub Trophy</i></summary>
-<!--   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=padsalatushal&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> -->
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=padsalatushal" alt="padsalatushal" /></a> </p>
-</details>
+
  
 <!-- End here -->
 
