@@ -44,7 +44,7 @@
 <details>
   <summary> 📊 &nbsp; <i>My Stats</i></summary>
     
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=padsalatushal&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-PIxelzenl&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
