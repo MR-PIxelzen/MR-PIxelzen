@@ -70,7 +70,7 @@
  
  <details>
  <summary> 📝 &nbsp; <i>Most used language</i></summary>
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=padsalatushal&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MR-PIxelzen&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 
 </details>
 <!-- End here -->
