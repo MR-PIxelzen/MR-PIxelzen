@@ -1,5 +1,5 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=padsalatushal&label=Profile%20views&color=0e75b6&style=flat" alt="padsalatushal" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MR-PIxelzen&label=Profile%20views&color=0e75b6&style=flat" alt="MR-PIxelzen" />
  </p>
 
 <pre>Hello Folks! 🧑🏽‍💻</pre>
