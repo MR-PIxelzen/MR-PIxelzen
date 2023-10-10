@@ -93,6 +93,7 @@
 <!-- Spotify Playing start here -->
 <!-- ### Spotify Playing 🎧 
 
-[![Spotify](https://novatorem-padsalatushal.vercel.app/api/spotify)](https://open.spotify.com/user/31dr5oul5dtf6lonunqs6yvewrlu)  -->
+[![Spotify](https://novatorem.vercel.app/api/spotify?user=PiXZeN)](https://open.spotify.com/user/PiXZeN)  -->
 
 <!-- End here -->
+
