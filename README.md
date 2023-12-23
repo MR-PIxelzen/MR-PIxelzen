@@ -12,7 +12,7 @@
 
 <!-- Cool Giphy Start here -->
 
-<img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+<img align="right" width="90px" src="https://github.com/MR-PIxelzen/MR-PIxelzen/blob/f11bc1dea44561f98b7d8fa950473a0d45317c41/gir/Arthur-Morgan-Bad-Honor-_1080p60fps_.gif"> 
 
 <!-- End here ... -->
 
